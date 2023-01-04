@@ -1,5 +1,5 @@
 import pytest
-from ..app.services.user import UserService
+from app.services.user import UserService
 
 @pytest.fixture
 def profile_info():
